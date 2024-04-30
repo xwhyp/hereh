@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "axios": "^1.6.8",
+    "brew": "^0.0.8",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "delay": "^5.0.0",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.65.1",
+    "node-unique-machine-id": "^1.1.0",
+    "node-unrar": "^0.1.6",
+    "pkg": "^5.8.1",
+    "puppeteer": "^22.6.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "qrcode-terminal": "^0.12.0",
+    "random-name": "^0.1.2",
+    "random-pick-name": "^1.0.3",
+    "random-useragent": "^0.5.0",
+    "readline-sync": "^1.4.10",
+    "table": "^6.8.1",
+    "tesseract.js": "^5.0.5",
+    "unrar": "^0.2.0",
+    "unrar-promise": "^3.1.0",
+    "unzipper": "^0.10.14",
+    "user-agents": "^1.1.157",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
